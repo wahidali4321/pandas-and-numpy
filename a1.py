@@ -1,4 +1,3 @@
-import random
-
-x = random.randint(1,40)
-print(x)
+number = 222 ;
+if number > 22:
+    print("the number is greater than 22")
