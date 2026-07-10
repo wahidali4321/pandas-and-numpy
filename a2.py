@@ -1,3 +1,2 @@
-import random
-wahid = random.randint(1,44)
-print(wahid)
+x = range(10)
+print(x)
